@@ -22,7 +22,7 @@ git checkout -b ask-a-question
 #### 4. Write a question
 
 In the `student-questions` directory, write a file named
-`<your_github_username>-workshop-question.md and ask a question in that file!
+`<your_github_username>-workshop-question.md` and ask a question in that file!
 
 *Donal says*: The file suffix `.md` stands for
 [Markdown](http://daringfireball.net/projects/markdown/). The
