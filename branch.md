@@ -19,3 +19,25 @@ git checkout ask-a-question
 git checkout -b ask-a-question
 ```
 
+#### 4. Write a question
+
+In the `student-questions` directory, write a file named
+`<your_github_username>-workshop-question.md and ask a question in that file!
+
+*Note from Donal*: The file suffix `.md` stands for
+[Markdown](http://daringfireball.net/projects/markdown/). The
+[writing-on-github](https://help.github.com/categories/writing-on-github/) page
+describes how to use Markdown including [GitHub flavoured
+Markdown](https://help.github.com/articles/github-flavored-markdown/).
+
+#### 5. Commit your question file
+```
+git add student-questions/<your_github_username>-workshop-question.md
+git commit -m "add question file"
+```
+
+#### 6. Push your question file to GitHub
+```
+git push origin ask-a-question
+```
+
