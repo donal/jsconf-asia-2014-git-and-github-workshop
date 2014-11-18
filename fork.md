@@ -14,6 +14,6 @@ git clone git@github.com:<your_github_username>/jsconf-asia-2014-git-and-github-
 
 Now you have a working copy of the repository.
 
-Note from Donal: I always use the `git://` protocol for any repo I own. I find
-it easier to set up an SSH key than manage username/password.
+*Note from Donal*: I always use the `git://` protocol for any repo I own. I
+find it easier to set up an SSH key than manage username/password.
 
