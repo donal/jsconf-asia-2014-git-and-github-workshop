@@ -1,6 +1,6 @@
 
-Following on from [branching](branch.md) (you want to do this exercise on you
-`<your_github_username>-asks-a-question` branch):
+Following on from [branching](branch.md) (in other words, you want to do this
+exercise on you `<your_github_username>-asks-a-question` branch):
 
 #### 1. Write a question
 
