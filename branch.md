@@ -14,7 +14,7 @@ git branch ask-a-question
 git checkout ask-a-question
 ```
 
-*Note from Donal*: You can do the last two commands in one step:
+*Donal says*: You can do the last two commands in one step:
 ```
 git checkout -b ask-a-question
 ```
@@ -24,7 +24,7 @@ git checkout -b ask-a-question
 In the `student-questions` directory, write a file named
 `<your_github_username>-workshop-question.md and ask a question in that file!
 
-*Note from Donal*: The file suffix `.md` stands for
+*Donal says*: The file suffix `.md` stands for
 [Markdown](http://daringfireball.net/projects/markdown/). The
 [writing-on-github](https://help.github.com/categories/writing-on-github/) page
 describes how to use Markdown including [GitHub flavoured
