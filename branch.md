@@ -6,7 +6,7 @@ git checkout master
 
 #### 2. Create a new branch
 ```
-git branch ask-a-question
+git branch <your_github_username>-asks-a-question
 ```
 
 #### 3. Switch to the new branch
