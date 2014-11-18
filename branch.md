@@ -11,12 +11,12 @@ git branch <your_github_username>-asks-a-question
 
 #### 3. Switch to the new branch
 ```
-git checkout ask-a-question
+git checkout <your_github_username>-asks-a-question
 ```
 
 *Donal says*: You can do the last two commands in one step:
 ```
-git checkout -b ask-a-question
+git checkout -b <your_github_username>-asks-a-question
 ```
 
 #### 4. Write a question
@@ -38,6 +38,6 @@ git commit -m "add question file"
 
 #### 6. Push your question file to GitHub
 ```
-git push origin ask-a-question
+git push origin <your_github_username>-asks-a-question
 ```
 
