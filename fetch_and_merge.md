@@ -17,7 +17,7 @@ git remote add project git@github.com:donal/jsconf-asia-2014-git-and-github-work
 ```
 
 *Donal says*: There's nothing special about the "origin" name (or the "project"
-name) for a remote. "origin" is a default value.
+name) for a remote. "origin" is the default value.
 
 Now run the command:
 ```
@@ -96,4 +96,4 @@ git push origin master
 
 The `git pull` command combines the `git fetch` and `git merge` commands into
 one. While this may seem like a useful shortcut, in practice it can cause
-problems and it's strongly recommended to avoid using it.
+problems so it's strongly recommended to avoid using it.
