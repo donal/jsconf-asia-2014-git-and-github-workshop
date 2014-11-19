@@ -9,4 +9,5 @@ Workshop exercises and outstanding student questions for JSConf Asia 2014.
 1. [Fetching and merging (and pull)](fetch_and_merge.md)
 1. [Deleting a branch](delete_branch.md)
 1. [Handling a merge conflict](merge_conflict.md)
+1. [Stashing](stash.md)
 
