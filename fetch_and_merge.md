@@ -92,3 +92,8 @@ they're not yet in your `origin` (ie. GitHub) remote. So run:
 git push origin master
 ```
 
+#### 8. `git pull`
+
+The `git pull` command combines the `git fetch` and `git merge` commands into
+one. While this may seem like a useful shortcut, in practice it can cause
+problems and it's strongly recommended to avoid using it.
