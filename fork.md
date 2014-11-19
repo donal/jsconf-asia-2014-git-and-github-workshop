@@ -17,9 +17,10 @@ git clone git@github.com:<your_github_username>/jsconf-asia-2014-git-and-github-
 
 Now you have a working copy of the repository.
 
-*Donal says*: I always use the `git@` (= SSH) protocol for any repo I own. I
-find it easier to set up an SSH key than manage username/password.
+*Donal says*: I always use the `git@` (= `git://` over SSH) protocol for any
+repo I own. I find it easier to set up an SSH key than manage
+username/password. It's faster and less flakier than the `https://` protocol.
 
-By the way, never use the `git://` protocol. It doesn't have authentication
-(and isn't supported in GitHub anyway).
+By the way, never use the `git://` protocol by itself. It doesn't have
+authentication (and isn't supported in GitHub anyway).
 
