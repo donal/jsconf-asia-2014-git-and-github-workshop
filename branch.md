@@ -19,3 +19,8 @@ git checkout <your_github_username>-asks-a-question
 git checkout -b <your_github_username>-asks-a-question
 ```
 
+#### 4. View your branches
+```
+git branch
+```
+
