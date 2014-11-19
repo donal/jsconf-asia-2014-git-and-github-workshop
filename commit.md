@@ -20,6 +20,11 @@ git status
 
 Will show that the file is "untracked".
 
+If you want to just see the short version of the git status, run this:
+```
+git status -s
+```
+
 #### 3. View the file differences
 ```
 git diff
