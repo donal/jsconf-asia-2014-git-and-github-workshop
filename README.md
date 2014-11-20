@@ -10,4 +10,5 @@ Workshop exercises and outstanding student questions for JSConf Asia 2014.
 1. [Deleting a branch](delete_branch.md)
 1. [Handling a merge conflict](merge_conflict.md)
 1. [Stashing](stash.md)
+1. [Resetting and the Reflog](reset_and_reflog.md)
 
