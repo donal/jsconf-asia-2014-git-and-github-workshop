@@ -1,7 +1,7 @@
 
 Workshop exercises and outstanding student questions for JSConf Asia 2014.
 
-[PDF of slides](jsconf_asia_2014_git_github_workshop.pdf)
+[PDF of slides](slides/jsconf_asia_2014_git_github_workshop.pdf)
 
 1. [Forking](fork.md)
 1. [Branching](branch.md)
