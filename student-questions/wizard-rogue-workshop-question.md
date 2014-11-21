@@ -1,3 +1,3 @@
 Hi Donal!
 
-No question here!
+How do you modify the config and add an alias?
