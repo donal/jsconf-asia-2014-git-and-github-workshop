@@ -1,7 +1,9 @@
 
-Workshop exercises and outstanding student questions for JSConf Asia 2014.
+Workshop exercises and outstanding student questions for JSConf Asia 2013.
 
 [PDF of slides](slides/jsconf_asia_2014_git_github_workshop.pdf)
+
+TODO: Find out why the PDF didn't render!
 
 1. [Forking](fork.md)
 1. [Branching](branch.md)
