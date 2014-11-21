@@ -1,5 +1,5 @@
 
-Workshop exercises and outstanding student questions for JSConf Asia 2014.
+Workshop exercises and outstanding student questions for JSConf Asia 2013.
 
 [PDF of slides](slides/jsconf_asia_2014_git_github_workshop.pdf)
 
