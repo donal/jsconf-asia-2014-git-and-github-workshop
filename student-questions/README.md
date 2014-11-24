@@ -1,6 +1,6 @@
 Workshop questions from participants.
 
-Questions ([x] means it is answered):
+Questions ("checked" means it is answered):
 
 - [ ] WhatWereYouTeachingCollege.md
 - [ ] benjaminbasa-workshop-question.md
