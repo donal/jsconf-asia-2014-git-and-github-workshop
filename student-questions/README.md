@@ -2,7 +2,7 @@ Workshop questions from participants.
 
 Questions ("checked" means it is answered):
 
-- [ ] WhatWereYouTeachingCollege.md
+- [x] WhatWereYouTeachingCollege.md
 - [ ] benjaminbasa-workshop-question.md
 - [ ] duffycheng-workshop-question.md
 - [ ] focusaurus-workshop-question
