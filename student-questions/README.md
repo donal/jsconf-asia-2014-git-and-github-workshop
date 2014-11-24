@@ -4,7 +4,7 @@ Questions ("checked" means it is answered):
 
 - [x] [WhatWereYouTeachingCollege.md](WhatWereYouTeachingCollege.md)
 - [x] [benjaminbasa-workshop-question.md](benjaminbasa-workshop-question.md)
-- [ ] duffycheng-workshop-question.md
+- [x] [duffycheng-workshop-question.md](duffycheng-workshop-question.md)
 - [ ] focusaurus-workshop-question
 - [ ] hongkheng-workshop-question.md
 - [ ] micahbule-workshop-question.md
