@@ -8,7 +8,7 @@ Questions ("checked" means it is answered):
 - [x] [focusaurus-workshop-question.md](focusaurus-workshop-question.md)
 - [x] [hongkheng-workshop-question.md](hongkheng-workshop-question.md)
 - [x] [micahbule-workshop-question.md](micahbule-workshop-question.md)
-- [ ] prnawa-workshop-question.md
+- [x] [prnawa-workshop-question.md](prnawa-workshop-question.md)
 - [ ] question-about-stash.md
 - [ ] shweyeephyo-workshop-question.md
 - [ ] vince-workshop-question.md
