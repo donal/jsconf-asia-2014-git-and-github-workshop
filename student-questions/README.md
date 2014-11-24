@@ -11,5 +11,5 @@ Questions ("checked" means it is answered):
 - [x] [prnawa-workshop-question.md](prnawa-workshop-question.md)
 - [x] [question-about-stash.md](question-about-stash.md)
 - [x] [shweyeephyo-workshop-question.md](shweyeephyo-workshop-question.md)
-- [ ] vince-workshop-question.md
+- [x] [vince-workshop-question.md](vince-workshop-question.md)
 - [ ] wizard-rogue-workshop-question.md
