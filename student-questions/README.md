@@ -12,4 +12,4 @@ Questions ("checked" means it is answered):
 - [x] [question-about-stash.md](question-about-stash.md)
 - [x] [shweyeephyo-workshop-question.md](shweyeephyo-workshop-question.md)
 - [x] [vince-workshop-question.md](vince-workshop-question.md)
-- [ ] wizard-rogue-workshop-question.md
+- [x] [wizard-rogue-workshop-question.md](wizard-rogue-workshop-question.md)
